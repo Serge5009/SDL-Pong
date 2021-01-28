@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\College\202_OOP\Game202_Week1\Game202_Week1\Source.cpp(244,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\College\202_OOP\Game202_Week1\Game202_Week1\Source.cpp(52): warning C4715: InitEngine: значение возвращается не при всех путях выполнения
+  Game202_Week1.vcxproj -> D:\College\202_OOP\Game202_Week1\Debug\Game202_Week1.exe
